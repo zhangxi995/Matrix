@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 26405
+# 规则统计: 26420
 
 HOST,1password.drift.click,PROXY
 HOST,3dns-1.adobe.com,PROXY
@@ -254,7 +254,13 @@ HOST,notary-submissions-prod.s3-accelerate.amazonaws.com,PROXY
 HOST,notary-submissions-prod.s3.us-west-2.amazonaws.com,PROXY
 HOST,notify.ppy.sh,PROXY
 HOST,np-edge.itunes.apple.com,PROXY
+HOST,ntdfreemobile-tgc.cdn.hinet.net,PROXY
+HOST,ntdfreepc-tgc.cdn.hinet.net,PROXY
+HOST,ntdfreetv-tgc.cdn.hinet.net,PROXY
+HOST,ntdfreevcpc-tgc.cdn.hinet.net,PROXY
+HOST,ntdofifreemobile-tgc.cdn.hinet.net,PROXY
 HOST,ntdofifreepc-tgc.cdn.hinet.net,PROXY
+HOST,ntdofifreetv-tgc.cdn.hinet.net,PROXY
 HOST,ntdofifreevcpc-tgc.cdn.hinet.net,PROXY
 HOST,ntp-b.nist.gov,PROXY
 HOST,ntp-c.colorado.edu,PROXY
@@ -7440,6 +7446,8 @@ HOST-SUFFIX,dmcdn.net,PROXY
 HOST-SUFFIX,dmed.technology,PROXY
 HOST-SUFFIX,dmgmediaprivacy.co.uk,PROXY
 HOST-SUFFIX,dmhy.org,PROXY
+HOST-SUFFIX,dmit.io,PROXY
+HOST-SUFFIX,dmit.sh,PROXY
 HOST-SUFFIX,dml-lang.org,PROXY
 HOST-SUFFIX,dmm-extension.com,PROXY
 HOST-SUFFIX,dmm.co.jp,PROXY
@@ -7880,6 +7888,7 @@ HOST-SUFFIX,dynu.com,PROXY
 HOST-SUFFIX,dynu.net,PROXY
 HOST-SUFFIX,dynupdate.no-ip.com,PROXY
 HOST-SUFFIX,dysfz.cc,PROXY
+HOST-SUFFIX,dzcdn.net,PROXY
 HOST-SUFFIX,dzen.ru,PROXY
 HOST-SUFFIX,dzeninfra.ru,PROXY
 HOST-SUFFIX,dzze.com,PROXY
@@ -8361,6 +8370,7 @@ HOST-SUFFIX,entrust.cn,PROXY
 HOST-SUFFIX,entrust.com,PROXY
 HOST-SUFFIX,entrust.net,PROXY
 HOST-SUFFIX,entrustdatacard.com,PROXY
+HOST-SUFFIX,eotarchive.org,PROXY
 HOST-SUFFIX,epac.to,PROXY
 HOST-SUFFIX,epicbrowser.com,PROXY
 HOST-SUFFIX,epicgames.com,PROXY
@@ -10379,6 +10389,7 @@ HOST-SUFFIX,ghbi.ir,PROXY
 HOST-SUFFIX,ghcr.io,PROXY
 HOST-SUFFIX,ghettotube.com,PROXY
 HOST-SUFFIX,ghidra-sre.org,PROXY
+HOST-SUFFIX,ghostarchive.org,PROXY
 HOST-SUFFIX,ghostgames.com,PROXY
 HOST-SUFFIX,ghostpath.com,PROXY
 HOST-SUFFIX,ghut.org,PROXY
@@ -15357,6 +15368,7 @@ HOST-SUFFIX,meltoday.com,PROXY
 HOST-SUFFIX,meme111.com,PROXY
 HOST-SUFFIX,memealerts.com,PROXY
 HOST-SUFFIX,memehk.com,PROXY
+HOST-SUFFIX,mementoweb.org,PROXY
 HOST-SUFFIX,memes.tw,PROXY
 HOST-SUFFIX,memri.org,PROXY
 HOST-SUFFIX,memrijttm.org,PROXY
@@ -18076,6 +18088,7 @@ HOST-SUFFIX,parstream.com,PROXY
 HOST-SUFFIX,parstream.net,PROXY
 HOST-SUFFIX,parstream.org,PROXY
 HOST-SUFFIX,partmaker.com,PROXY
+HOST-SUFFIX,partnerstack.xyz,PROXY
 HOST-SUFFIX,partycasino.com,PROXY
 HOST-SUFFIX,partylikeits1986.org,PROXY
 HOST-SUFFIX,partypoker.com,PROXY
@@ -18387,6 +18400,7 @@ HOST-SUFFIX,perfectshemales.com,PROXY
 HOST-SUFFIX,perfecttitspics.com,PROXY
 HOST-SUFFIX,periscope.tv,PROXY
 HOST-SUFFIX,perl.org,PROXY
+HOST-SUFFIX,perma.cc,PROXY
 HOST-SUFFIX,perplexity.ai,PROXY
 HOST-SUFFIX,perplexity.com,PROXY
 HOST-SUFFIX,persagg.com,PROXY
@@ -24549,6 +24563,7 @@ HOST-SUFFIX,webcamjackers.com,PROXY
 HOST-SUFFIX,webcammedellin.co,PROXY
 HOST-SUFFIX,webcams.tv,PROXY
 HOST-SUFFIX,webcamtubexxx.com,PROXY
+HOST-SUFFIX,webcitation.org,PROXY
 HOST-SUFFIX,webevader.org,PROXY
 HOST-SUFFIX,webex.ca,PROXY
 HOST-SUFFIX,webex.co.in,PROXY

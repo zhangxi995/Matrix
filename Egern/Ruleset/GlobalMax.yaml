@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 32606
+# 规则统计: 32617
 
 no_resolve: true
 domain_set:
@@ -3099,6 +3099,7 @@ domain_suffix_set:
   - awlc.ac.uk
   - aws-iot-hackathon.com
   - aws.com
+  - aws.dev
   - awsapprunner.com
   - awsapps.com
   - awsautopilot.com
@@ -4192,6 +4193,7 @@ domain_suffix_set:
   - bit.do
   - bit.ly
   - bit.no.com
+  - bitbaby.com
   - bitballoon.com
   - bitbank.cc
   - bitbay.net
@@ -8435,6 +8437,8 @@ domain_suffix_set:
   - dmed.technology
   - dmgmediaprivacy.co.uk
   - dmhy.org
+  - dmit.io
+  - dmit.sh
   - dml-lang.org
   - dml.ac.uk
   - dmm-extension.com
@@ -9679,6 +9683,7 @@ domain_suffix_set:
   - entrustdatacard.com
   - enveast.ac.uk
   - environment-health.ac.uk
+  - eotarchive.org
   - epa.gov.tw
   - epac.to
   - epc.ac.uk
@@ -12072,6 +12077,7 @@ domain_suffix_set:
   - ghettotube.com
   - ghidra-sre.org
   - ghil.ac.uk
+  - ghostarchive.org
   - ghostgames.com
   - ghostnoteapp.com
   - ghostpath.com
@@ -14534,6 +14540,7 @@ domain_suffix_set:
   - id.hao123.com
   - idaiwan.com
   - idarkdoll.com
+  - idcflare.com
   - idcore.ac.uk
   - iddddg.com
   - idea-server.com
@@ -18378,6 +18385,7 @@ domain_suffix_set:
   - meme111.com
   - memealerts.com
   - memehk.com
+  - mementoweb.org
   - memes.tw
   - memorybbs.com
   - memri.org
@@ -21884,6 +21892,7 @@ domain_suffix_set:
   - particlephysics.ac.uk
   - partmaker.com
   - partneriaethaberbangor.ac.uk
+  - partnerstack.xyz
   - partycasino.com
   - partylikeits1986.org
   - partypoker.com
@@ -22253,6 +22262,7 @@ domain_suffix_set:
   - performancescience.ac.uk
   - periscope.tv
   - perl.org
+  - perma.cc
   - perplexity.ai
   - perplexity.com
   - persagg.com
@@ -30318,6 +30328,7 @@ domain_suffix_set:
   - webcammedellin.co
   - webcams.tv
   - webcamtubexxx.com
+  - webcitation.org
   - webevader.org
   - webex.ca
   - webex.co.in
