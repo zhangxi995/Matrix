@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 26427
+# 规则统计: 26431
 
 payload:
   - '1password.drift.click'
@@ -2775,6 +2775,7 @@ payload:
   - '+.archivx.to'
   - '+.archlinux.org'
   - '+.archlinuxarm.org'
+  - '+.archlinuxcn.org'
   - '+.arcraiders.com'
   - '+.arctosia.com'
   - '+.area120.com'
@@ -7046,7 +7047,6 @@ payload:
   - '+.dengekionline.com'
   - '+.dengiamerika.com'
   - '+.deno.com'
-  - '+.deno.dev'
   - '+.deno.land'
   - '+.dentalhypotheses.com'
   - '+.dependabot.com'
@@ -10371,6 +10371,7 @@ payload:
   - '+.gfw.press'
   - '+.gfw.report'
   - '+.gfwatch.org'
+  - '+.gfwbao.com'
   - '+.gfx.ms'
   - '+.gfycat.com'
   - '+.gfysex.com'
@@ -10553,6 +10554,7 @@ payload:
   - '+.gockhuatviet.com'
   - '+.godaddy'
   - '+.godaddy.com'
+  - '+.godbolt.org'
   - '+.godfootsteps.org'
   - '+.godoc.org'
   - '+.godsdirectcontact.co.uk'
@@ -14694,6 +14696,7 @@ payload:
   - '+.lotcrap.com'
   - '+.lotsawahouse.org'
   - '+.lotuslight.org.tw'
+  - '+.lovart.ai'
   - '+.love-sextoys.co.uk'
   - '+.love4porn.com'
   - '+.love6.tv'
@@ -21641,6 +21644,7 @@ payload:
   - '+.steamdb.info'
   - '+.steamdeck.com'
   - '+.steamgames.com'
+  - '+.steamladder.com'
   - '+.steamofporn.com'
   - '+.steampowered.com'
   - '+.steamserver.net'

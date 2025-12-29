@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 26427
+# 规则统计: 26431
 
 HOST,1password.drift.click,PROXY
 HOST,3dns-1.adobe.com,PROXY
@@ -2774,6 +2774,7 @@ HOST-SUFFIX,archives.gov,PROXY
 HOST-SUFFIX,archivx.to,PROXY
 HOST-SUFFIX,archlinux.org,PROXY
 HOST-SUFFIX,archlinuxarm.org,PROXY
+HOST-SUFFIX,archlinuxcn.org,PROXY
 HOST-SUFFIX,arcraiders.com,PROXY
 HOST-SUFFIX,arctosia.com,PROXY
 HOST-SUFFIX,area120.com,PROXY
@@ -7045,7 +7046,6 @@ HOST-SUFFIX,dengeamerika.com,PROXY
 HOST-SUFFIX,dengekionline.com,PROXY
 HOST-SUFFIX,dengiamerika.com,PROXY
 HOST-SUFFIX,deno.com,PROXY
-HOST-SUFFIX,deno.dev,PROXY
 HOST-SUFFIX,deno.land,PROXY
 HOST-SUFFIX,dentalhypotheses.com,PROXY
 HOST-SUFFIX,dependabot.com,PROXY
@@ -10370,6 +10370,7 @@ HOST-SUFFIX,gfsale.com,PROXY
 HOST-SUFFIX,gfw.press,PROXY
 HOST-SUFFIX,gfw.report,PROXY
 HOST-SUFFIX,gfwatch.org,PROXY
+HOST-SUFFIX,gfwbao.com,PROXY
 HOST-SUFFIX,gfx.ms,PROXY
 HOST-SUFFIX,gfycat.com,PROXY
 HOST-SUFFIX,gfysex.com,PROXY
@@ -10552,6 +10553,7 @@ HOST-SUFFIX,gobuyonlinestore.net,PROXY
 HOST-SUFFIX,gockhuatviet.com,PROXY
 HOST-SUFFIX,godaddy,PROXY
 HOST-SUFFIX,godaddy.com,PROXY
+HOST-SUFFIX,godbolt.org,PROXY
 HOST-SUFFIX,godfootsteps.org,PROXY
 HOST-SUFFIX,godoc.org,PROXY
 HOST-SUFFIX,godsdirectcontact.co.uk,PROXY
@@ -14693,6 +14695,7 @@ HOST-SUFFIX,lostbetsgames.com,PROXY
 HOST-SUFFIX,lotcrap.com,PROXY
 HOST-SUFFIX,lotsawahouse.org,PROXY
 HOST-SUFFIX,lotuslight.org.tw,PROXY
+HOST-SUFFIX,lovart.ai,PROXY
 HOST-SUFFIX,love-sextoys.co.uk,PROXY
 HOST-SUFFIX,love4porn.com,PROXY
 HOST-SUFFIX,love6.tv,PROXY
@@ -21640,6 +21643,7 @@ HOST-SUFFIX,steamcontent.com,PROXY
 HOST-SUFFIX,steamdb.info,PROXY
 HOST-SUFFIX,steamdeck.com,PROXY
 HOST-SUFFIX,steamgames.com,PROXY
+HOST-SUFFIX,steamladder.com,PROXY
 HOST-SUFFIX,steamofporn.com,PROXY
 HOST-SUFFIX,steampowered.com,PROXY
 HOST-SUFFIX,steamserver.net,PROXY

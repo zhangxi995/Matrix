@@ -1,5 +1,5 @@
 # 规则名称: PROXY
-# 规则统计: 26427
+# 规则统计: 26431
 
 domain_set:
   - 1password.drift.click
@@ -2776,6 +2776,7 @@ domain_suffix_set:
   - archivx.to
   - archlinux.org
   - archlinuxarm.org
+  - archlinuxcn.org
   - arcraiders.com
   - arctosia.com
   - area120.com
@@ -7047,7 +7048,6 @@ domain_suffix_set:
   - dengekionline.com
   - dengiamerika.com
   - deno.com
-  - deno.dev
   - deno.land
   - dentalhypotheses.com
   - dependabot.com
@@ -10372,6 +10372,7 @@ domain_suffix_set:
   - gfw.press
   - gfw.report
   - gfwatch.org
+  - gfwbao.com
   - gfx.ms
   - gfycat.com
   - gfysex.com
@@ -10554,6 +10555,7 @@ domain_suffix_set:
   - gockhuatviet.com
   - godaddy
   - godaddy.com
+  - godbolt.org
   - godfootsteps.org
   - godoc.org
   - godsdirectcontact.co.uk
@@ -14695,6 +14697,7 @@ domain_suffix_set:
   - lotcrap.com
   - lotsawahouse.org
   - lotuslight.org.tw
+  - lovart.ai
   - love-sextoys.co.uk
   - love4porn.com
   - love6.tv
@@ -21642,6 +21645,7 @@ domain_suffix_set:
   - steamdb.info
   - steamdeck.com
   - steamgames.com
+  - steamladder.com
   - steamofporn.com
   - steampowered.com
   - steamserver.net
