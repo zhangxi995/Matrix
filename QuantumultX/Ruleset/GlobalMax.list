@@ -1,10 +1,9 @@
 # 规则名称: GlobalMax
-# 规则统计: 32636
+# 规则统计: 32638
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
 HOST,angle.com.tw,GlobalMax
-HOST,anime-rule34-world.b-cdn.net,GlobalMax
 HOST,api-p.videomarket.jp,GlobalMax
 HOST,api.waqi.info,GlobalMax
 HOST,apple.com.akadns.net,GlobalMax
@@ -99,11 +98,9 @@ HOST,rsshub.rssforever.com,GlobalMax
 HOST,rsshub.umzzz.com,GlobalMax
 HOST,rsshub.woodland.cafe,GlobalMax
 HOST,rsshub2.asailor.org,GlobalMax
-HOST,servd-anthropic-website.b-cdn.net,GlobalMax
 HOST,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com,GlobalMax
 HOST,tesla-cdn.thron.com,GlobalMax
 HOST,time.windows.com,GlobalMax
-HOST,tmdb-image-prod.b-cdn.net,GlobalMax
 HOST,translomatic.foxfortmobile.com,GlobalMax
 HOST,ut1-time.colorado.edu,GlobalMax
 HOST,utcnist.colorado.edu,GlobalMax
@@ -3181,6 +3178,7 @@ HOST-SUFFIX,azureserviceprofiler.com,GlobalMax
 HOST-SUFFIX,azuresmartspaces.net,GlobalMax
 HOST-SUFFIX,azurestackvalidation.com,GlobalMax
 HOST-SUFFIX,azurewebsites.net,GlobalMax
+HOST-SUFFIX,b-cdn.net,GlobalMax
 HOST-SUFFIX,b-eroland.net,GlobalMax
 HOST-SUFFIX,b-ok.africa,GlobalMax
 HOST-SUFFIX,b-ok.asia,GlobalMax
@@ -5371,6 +5369,8 @@ HOST-SUFFIX,bumptop.org,GlobalMax
 HOST-SUFFIX,bumptunes.com,GlobalMax
 HOST-SUFFIX,bunbunhk.com,GlobalMax
 HOST-SUFFIX,bunka.go.jp,GlobalMax
+HOST-SUFFIX,bunny.net,GlobalMax
+HOST-SUFFIX,bunnycdn.com,GlobalMax
 HOST-SUFFIX,bunnylust.com,GlobalMax
 HOST-SUFFIX,burningcamel.com,GlobalMax
 HOST-SUFFIX,burnley.ac.uk,GlobalMax
@@ -12125,6 +12125,7 @@ HOST-SUFFIX,girlscanner.cc,GlobalMax
 HOST-SUFFIX,girlscv.com,GlobalMax
 HOST-SUFFIX,girlsdelta.com,GlobalMax
 HOST-SUFFIX,girlsfuck-tube.com,GlobalMax
+HOST-SUFFIX,girlsheaven-job.net,GlobalMax
 HOST-SUFFIX,girlsnudepic.com,GlobalMax
 HOST-SUFFIX,girlsofdesire.org,GlobalMax
 HOST-SUFFIX,girlsongirlstube.com,GlobalMax
@@ -13503,6 +13504,7 @@ HOST-SUFFIX,hesin.ac.uk,GlobalMax
 HOST-SUFFIX,hespa.ac.uk,GlobalMax
 HOST-SUFFIX,hestem.ac.uk,GlobalMax
 HOST-SUFFIX,heswbusnet.ac.uk,GlobalMax
+HOST-SUFFIX,hetzner-cloud.de,GlobalMax
 HOST-SUFFIX,hetzner.cloud,GlobalMax
 HOST-SUFFIX,hetzner.com,GlobalMax
 HOST-SUFFIX,hetzner.company,GlobalMax

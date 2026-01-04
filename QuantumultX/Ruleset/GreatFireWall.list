@@ -1,5 +1,5 @@
 # 规则名称: GreatFireWall
-# 规则统计: 5969
+# 规则统计: 5988
 
 HOST-SUFFIX,000webhost.com,GreatFireWall
 HOST-SUFFIX,030buy.com,GreatFireWall
@@ -3868,6 +3868,7 @@ HOST-SUFFIX,pct.org.tw,GreatFireWall
 HOST-SUFFIX,pdetails.com,GreatFireWall
 HOST-SUFFIX,pdproxy.com,GreatFireWall
 HOST-SUFFIX,pds.nasa.gov,GreatFireWall
+HOST-SUFFIX,pdst.fm,GreatFireWall
 HOST-SUFFIX,peace.ca,GreatFireWall
 HOST-SUFFIX,peacefire.org,GreatFireWall
 HOST-SUFFIX,peeasian.com,GreatFireWall
@@ -3917,6 +3918,23 @@ HOST-SUFFIX,ping.fm,GreatFireWall
 HOST-SUFFIX,pinimg.com,GreatFireWall
 HOST-SUFFIX,pinkrod.com,GreatFireWall
 HOST-SUFFIX,pinoy-n.com,GreatFireWall
+HOST-SUFFIX,pinterest.at,GreatFireWall
+HOST-SUFFIX,pinterest.ca,GreatFireWall
+HOST-SUFFIX,pinterest.cl,GreatFireWall
+HOST-SUFFIX,pinterest.co.uk,GreatFireWall
+HOST-SUFFIX,pinterest.com,GreatFireWall
+HOST-SUFFIX,pinterest.com.au,GreatFireWall
+HOST-SUFFIX,pinterest.com.mx,GreatFireWall
+HOST-SUFFIX,pinterest.de,GreatFireWall
+HOST-SUFFIX,pinterest.es,GreatFireWall
+HOST-SUFFIX,pinterest.fr,GreatFireWall
+HOST-SUFFIX,pinterest.ie,GreatFireWall
+HOST-SUFFIX,pinterest.it,GreatFireWall
+HOST-SUFFIX,pinterest.jp,GreatFireWall
+HOST-SUFFIX,pinterest.nz,GreatFireWall
+HOST-SUFFIX,pinterest.ph,GreatFireWall
+HOST-SUFFIX,pinterest.pt,GreatFireWall
+HOST-SUFFIX,pinterest.se,GreatFireWall
 HOST-SUFFIX,pioneer-worker.forums-free.com,GreatFireWall
 HOST-SUFFIX,pipii.tv,GreatFireWall
 HOST-SUFFIX,piraattilahti.org,GreatFireWall
@@ -5261,6 +5279,7 @@ HOST-SUFFIX,unseen.is,GreatFireWall
 HOST-SUFFIX,unstable.icu,GreatFireWall
 HOST-SUFFIX,unwire.hk,GreatFireWall
 HOST-SUFFIX,uocn.org,GreatFireWall
+HOST-SUFFIX,up.audio,GreatFireWall
 HOST-SUFFIX,upbit.com,GreatFireWall
 HOST-SUFFIX,updates.tdesktop.com,GreatFireWall
 HOST-SUFFIX,upghsbc.com,GreatFireWall
